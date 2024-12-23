@@ -1,2 +1,2 @@
-# tokyo-olympic-project
-Data Engineering Project on Tokyo Olympic data Using Azure
+# tokyo-olympic-azure-data-engineering-project
+tokyo-olympic-azure-data-engineering-project
